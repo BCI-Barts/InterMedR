@@ -81,8 +81,5 @@ The [pre-course recap](https://rawgit.com/bioinformatics-core-shared-training/r-
 - Introduction to dplyr
 - Introducing workflows
 - Summarising groups and combining tables
-- LUNCH
-- ggplot
-
 
 
