@@ -1,26 +1,42 @@
-# InterMedR
-IntermediateRCourse
+# r-intermediate
+
+## Course outline
+
+- 09:30 - 10:00
+    + Rstudio introduction
+    + functions and variables
+    + data frames
+    + knitr
+    
+- 10:00 - 11:30
+    + tidy data concept
+    + dplyr introduction
+    + select
+    + mutate
+    + useful string and date operations
+- 11:30 - 12:30
+    + piping
+    + arrange
+    + filter
+- 12:30 - 13:30 LUNCH
+- 13:30 - 14:30 
+    + summarising / grouping data
+    + joining / combining data
+- 14:30 - end 
+    + ggplot2
 
 
-This course is aimed at bridging the gap between beginner's R i.e.
-the use of basic R functions and routines to manipulate data and
-the advanced use of R for data analytics [data science, writing
-own packages and advanced statistical knowledge].
+NOTES
 
-##Course assumptions: 
-That you can install R, Rstudio and relevant packages.
-You understand the basics of how R works and have a good working knowledge
-of the base routines. You have a burning desire to use / advance your R skillset.
-You would like to be able to reproduce your analytics and research and
-understand the concept of workflows.
+- Use Florence Nightingale dataset from HistData package?
+- Or an example from UsingR
+- Tutorials on dplyr
+    + https://www.udacity.com/wiki/ud651
+    + http://stat545-ubc.github.io/index.html
+    + http://kbroman.org/dataorg/
 
-##Contents: 
-We will follow the routines and working practices of Hadley Wykome.
-We will present the background and rationale for the new ways of working with
-R. We will introduce the framework of clean and tidy, ggplot2 and markdown
-before trying some worked examples.
+A great tutorial on ggplot2
+http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 
-##Learning goals:
-Understanding the basic concepts of the new syntax.
-Application of new syntax to improve readability/reproducibility and efficiency.
-Inspiration to use R for your own work!!
+A dplyr tutorial
+http://www.r-bloggers.com/complete-dplyr-tutorial-for-data-analytics-and-data-manipulation-in-r/
